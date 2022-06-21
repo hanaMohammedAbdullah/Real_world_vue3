@@ -35,7 +35,7 @@ export default {
   box-shadow: 0 3px 12px 0 rgba(0, 0, 0, 0.2);
 }
 .event-link {
-  text-decoration: none;
   color: #2c3e50;
+  text-decoration: none;
 }
 </style>
